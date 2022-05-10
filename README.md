@@ -2,11 +2,14 @@
 
 Me chamo Guilherme
 
-🎓  Sou estudante de sistemas de informação.
+
+🎆 Tenho 25 anos.
+
+🎓  Estudante de sistemas de informação.
 
 🚀 Gosto bastante da área de desenvolvimento de software por permitir dar vida à novas ideais.
 
-🔭 Atualmente estou trabalhando como desenvolvedor web.
+🔭 Estou trabalhando como desenvolvedor web a cerca de dois anos.
 
 
 📫 Você pode entrar em contato
