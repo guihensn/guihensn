@@ -38,5 +38,4 @@ Me chamo Guilherme
   <img src="https://user-images.githubusercontent.com/71513699/167719092-f55ae36a-e302-445c-ad87-8b15b0da890b.png" width="150" />
   <img src="https://user-images.githubusercontent.com/71513699/167722487-32016157-92f5-482f-8809-418fa3e941f0.png" width="175" />
 </p>
-![image](https://user-images.githubusercontent.com/71513699/167722487-32016157-92f5-482f-8809-418fa3e941f0.png)
 
