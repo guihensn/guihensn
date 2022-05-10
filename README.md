@@ -5,7 +5,7 @@ Me chamo Guilherme
 
 🎆 Tenho 25 anos.
 
-🎓  Estudante de sistemas de informação.
+🎓 Sou estudante de sistemas de informação.
 
 🚀 Gosto bastante da área de desenvolvimento de software por permitir dar vida à novas ideais.
 
