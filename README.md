@@ -5,8 +5,6 @@
 
 * Web developer
 
-* Working for two years
-
 * Majoring in Information Systems
 
 * Likes to create super cool stuffs 😎
