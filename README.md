@@ -5,7 +5,9 @@
 
 * Web developer
 
-* Two years of experience
+* Working for two years
+
+* Majoring in Information Systems
 
 * Likes to create super cool stuffs 😎
 
