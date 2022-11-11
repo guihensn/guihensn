@@ -10,7 +10,10 @@
 * Likes to create super cool stuffs 😎
 
 ## Frameworks
-![alt text](https://en.wikipedia.org/wiki/File:Angular_full_color_logo.svg)
+* Angular
+* Vue
+* React
+
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihensn&layout=compact&langs_count=8)
 
