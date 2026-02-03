@@ -3,12 +3,6 @@
 
 ## Profession
 
-* Web developer
-
-* Majoring in Information Systems
-
-* Likes to create super cool stuffs 😎
-
 ## Frameworks
 Frontend
 * Angular
