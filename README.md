@@ -3,16 +3,6 @@
 
 ## Profession
 
-## Frameworks
-Frontend
-* Angular
-* Vue
-* React
-
-Backend
-* Spring
-* Laravel
-
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihensn&layout=compact&langs_count=8)
 
